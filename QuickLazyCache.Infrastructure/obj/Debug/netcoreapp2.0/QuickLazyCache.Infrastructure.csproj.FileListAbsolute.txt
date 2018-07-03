@@ -1,9 +1,0 @@
-c:\users\abdullah.karatekin\Source\Repos\QuickLazyCache\QuickLazyCache.Infrastructure\bin\Debug\netcoreapp2.0\QuickLazyCache.Infrastructure.deps.json
-c:\users\abdullah.karatekin\Source\Repos\QuickLazyCache\QuickLazyCache.Infrastructure\bin\Debug\netcoreapp2.0\QuickLazyCache.Infrastructure.dll
-c:\users\abdullah.karatekin\Source\Repos\QuickLazyCache\QuickLazyCache.Infrastructure\obj\Debug\netcoreapp2.0\QuickLazyCache.Infrastructure.csprojResolveAssemblyReference.cache
-c:\users\abdullah.karatekin\Source\Repos\QuickLazyCache\QuickLazyCache.Infrastructure\obj\Debug\netcoreapp2.0\QuickLazyCache.Infrastructure.csproj.CoreCompileInputs.cache
-c:\users\abdullah.karatekin\Source\Repos\QuickLazyCache\QuickLazyCache.Infrastructure\obj\Debug\netcoreapp2.0\QuickLazyCache.Infrastructure.AssemblyInfoInputs.cache
-c:\users\abdullah.karatekin\Source\Repos\QuickLazyCache\QuickLazyCache.Infrastructure\obj\Debug\netcoreapp2.0\QuickLazyCache.Infrastructure.AssemblyInfo.cs
-c:\users\abdullah.karatekin\Source\Repos\QuickLazyCache\QuickLazyCache.Infrastructure\bin\Debug\netcoreapp2.0\QuickLazyCache.Infrastructure.pdb
-c:\users\abdullah.karatekin\Source\Repos\QuickLazyCache\QuickLazyCache.Infrastructure\obj\Debug\netcoreapp2.0\QuickLazyCache.Infrastructure.dll
-c:\users\abdullah.karatekin\Source\Repos\QuickLazyCache\QuickLazyCache.Infrastructure\obj\Debug\netcoreapp2.0\QuickLazyCache.Infrastructure.pdb
