@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickLazyCache", "QuickLazyCache\QuickLazyCache.csproj", "{0BAD4ED7-6135-4DD2-9790-8EC612D9E244}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickLazyCache.Infrastructure", "QuickLazyCache.Infrastructure\QuickLazyCache.Infrastructure.csproj", "{6C9452C2-8E02-4A95-824F-852028595600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BAD4ED7-6135-4DD2-9790-8EC612D9E244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BAD4ED7-6135-4DD2-9790-8EC612D9E244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BAD4ED7-6135-4DD2-9790-8EC612D9E244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BAD4ED7-6135-4DD2-9790-8EC612D9E244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C9452C2-8E02-4A95-824F-852028595600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9452C2-8E02-4A95-824F-852028595600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9452C2-8E02-4A95-824F-852028595600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9452C2-8E02-4A95-824F-852028595600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49AE6F88-D061-4C51-9FCF-EA04199BC05C}
+	EndGlobalSection
+EndGlobal
