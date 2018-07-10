@@ -5,14 +5,15 @@ This is package purpose of quickly caching and manage.
 
 ### Install
 
-You can use nuget package for download however have to install both packages!
+You can use nuget package for download however have to install below package!
 
 ```
 Install-Package System.Runtime.Caching -Version 4.5.0
-
+ ```
+ Then easily install package via nuget
+ ```
 Install-Package QuickLazyCache.Infrastructure -Version 1.0.0
  ```
- 
 
 
 ### How it's working
